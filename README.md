@@ -5,12 +5,7 @@ This extension helps you save leads/urls to visit at later time.
 
 
 ## Installing the project
-Clone the repository to your local machine by running the command in your CLI (terminal). For this command to work you must have git installed. To download click [here](https://git-scm.com/downloads).
-
-```
-git clone https://github.com/malachi43/chrome-extension.git
-```
-
+Clone the repository to your local machine by running the command, `git clone https://github.com/malachi43/chrome-extension.git` in your CLI (terminal). For this command to work you must have git installed. To download click [here](https://git-scm.com/downloads).
 
 Now the repository is in your local machine, navigate to **manifest.json** file and make the necessary changes that suit your needs.
 
