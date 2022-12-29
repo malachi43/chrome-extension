@@ -5,7 +5,6 @@ This extension helps you save leads/urls to visit at later time.
 
 
 ## Installing the project
----
 Clone the repository to your local machine by running the command in your CLI (terminal). For this command to work you must have git installed. To download click [here](https://git-scm.com/downloads).
 
 ```
@@ -38,12 +37,11 @@ Edit the name and default_icon properties to your preference. Note the **default
 
 
 ## Adding the extension to your chrome browser
----
 1. Open your chrome browser.
 2. Click on the puzzle icon at the top right corner of your chrome browser.
 3. A pop-up opens. On the pop-up click on **Manage extensions**.
 4. A new window opens. Click on **Load unpacked** tab at the top of the window that opens a file chooser, from this choose your cloned repository/folder to add it as an extension to your chrome browser.
-5. Click on the puzzle icon again to see your just added extension with the name  and icon set in the manifest.json file.
+5. Click on the puzzle icon again to see your just added extension with the name  and icon properties you set in the manifest.json file.
 6. Your new extension is ready to use.
 
 
